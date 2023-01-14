@@ -1,0 +1,10 @@
+{
+    "name": "com.smkplus.iridescence",
+    "displayName": "smkplus Iridescence Shaders",
+    "version": "1.0.0",
+    "documentationUrl": "https://github.com/ParkingLotGames/Iridescence-by-smkplus",
+    "changelogUrl": "https://github.com/ParkingLotGames/Iridescence-by-smkplus/releases",
+    "licensesUrl": "https://github.com/ParkingLotGames/Iridescence-by-smkplus/blob/master/LICENSE",
+    "description": "",
+    "hideInEditor": false
+  }

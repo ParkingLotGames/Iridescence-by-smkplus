@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Material
+  m_Name: SimpleBubble
   m_Shader: {fileID: 4800000, guid: 0c5cabad45bb9b544a93ac6f4ecfcb68, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
